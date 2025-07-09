@@ -9,4 +9,4 @@ Smooth and responsive cursor control.
 
 Real-time hand tracking using Mediapipe.
 
-Frame rate (FPS) display on screen.
+Frame rate (FPS) display on screen. 
